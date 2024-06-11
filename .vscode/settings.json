@@ -1,6 +1,18 @@
 {
     "editor.wordWrap": "on",   
     "files.autoSave": "afterDelay",
-    "files.autoSaveDelay": 500
+    "files.autoSaveDelay": 500,
+    "editor.rulers": [
+    {
+          "column": 0,
+        },
+        {
+          "column": 0,
+        },
+        {
+          "column": 0,
+        }
+    ],
 }
+
 
